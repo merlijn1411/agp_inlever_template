@@ -1,8 +1,8 @@
-## [titel van jullie game]
-Project team:[jullie namen]
+## [OperationStarfall]
+Project team:[Merijn, Jamy, Ferron, Timothy, Gerben, Merlijn, Kees, Nicola, Dylan, Gui, Julie, Justin, Teffer, Ruben, Noa , Sepp, Ivo, Bruce, Isaac, Trung Toan, Rein, Davey, Clement, Luuk, Bryan, LiseLotte, Maxime, Alex, Berend]
 
 Platform:
-[jullie platfom]
+[PC, SteamDeck]
 
 ### Korte omschrijving van de game
 ...
@@ -35,7 +35,7 @@ Platform:
 | Logboek (pdf)                         | [Logboek]
 |<img width=500/>|<img width=300/>|
 
-   [Backlog]: <https://trello.com/b/hik72z4q/mythe-2019-voorbeeld-trello>
+   [Backlog]: <https://trello.com/b/gVEjIPgv/operation-starfall-product-backlog>
    [Logboek]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/logboek.pdf>
    [GameDesignDoc]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/GameDesignDoc.pdf>
    [RetrospectiveVerslagen]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/RetrospectiveVerslagen.pdf>
