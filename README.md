@@ -39,8 +39,8 @@ Operation Starfall is een 2D, Couch co-op, Open World, Metroidvania in de style 
    [Sprint]: <https://trello.com/b/NkLp0zTo/operation-starfall-sprint-35>
    [Logboek]: <https://github.com/merlijn1411/agp_inlever_template/blob/master/producten/logboek.pdf>
    [GameDesignDoc]: <https://docs.google.com/presentation/d/1w0B5SBW9Ny2kC0oWGZkiiXOsW7Jt3GYbV-PIMUNGozA/edit#slide=id.g241fc5dcd6a_0_62>
-   [RetrospectiveVerslagen]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/RetrospectiveVerslagen.pdf>
-   [ReviewVerslagen]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/ReviewVerslagen.pdf>
+   [RetrospectiveVerslagen]: <https://github.com/merlijn1411/agp_inlever_template/blob/master/producten/RetrospectiveVerslag.pdf>
+   [ReviewVerslagen]: <https://github.com/merlijn1411/agp_inlever_template/blob/master/producten/ReviewVerslagen.pdf>
    [Prototype]: <https://merlijn1411.itch.io/operation-starfall>
-   [Folder op teams]: <https://www.linknaarmijnfolderopteams.nl>
+   [Folder op teams]: <https://mediacollegeamsterdam-my.sharepoint.com/:f:/g/personal/34530_ma-web_nl/Els50kDS7-FAhDJEpQLq0sIBgUmvnkGD1l3rRCqCVhyfTg?e=zA4zHH>
    
