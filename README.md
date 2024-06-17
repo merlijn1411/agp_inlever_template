@@ -31,7 +31,7 @@ Operation Starfall is een 2D, Couch co-op, Open World, Metroidvania in de style 
 | ------ |  ------ |
 | Sprint retrospective verslagen (pdf)  | [RetrospectiveVerslagen]
 | Sprint review verslagen (pdf)         | [ReviewVerslagen]
-| Link naar online speelbaar prototype  | [Prototype]
+| Link naar online speelbaar prototype. Het Wacthwoord is Winterspelen2012  | [Prototype]
 | Logboek (pdf)                         | [Logboek]
 |<img width=500/>|<img width=300/>|
 
@@ -41,6 +41,6 @@ Operation Starfall is een 2D, Couch co-op, Open World, Metroidvania in de style 
    [GameDesignDoc]: <https://docs.google.com/presentation/d/1w0B5SBW9Ny2kC0oWGZkiiXOsW7Jt3GYbV-PIMUNGozA/edit#slide=id.g241fc5dcd6a_0_62>
    [RetrospectiveVerslagen]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/RetrospectiveVerslagen.pdf>
    [ReviewVerslagen]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/ReviewVerslagen.pdf>
-   [Prototype]: <https://www.mijnmytheprototype.nl>
+   [Prototype]: <https://merlijn1411.itch.io/operation-starfall>
    [Folder op teams]: <https://www.linknaarmijnfolderopteams.nl>
    
